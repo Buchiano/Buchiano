@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+     text-align: center;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    background-color: white;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.logo{
+    height: 50px;
+    margin-left: 30px;
+}
+.link{
+    display: flex;
+    text-decoration: none;
+    gap: 40px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+ul li {
+    list-style: none;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    color: black;
+}
+.btn{
+    margin-left: 300px;
+    background-color: firebrick;
+    border: none;
+    border-radius: 5px;
+    margin-right: 50px;
+    height: 40px;
+
+    display: flex;
+padding: 14px 17px 15px 19px;
+justify-content: center;
+align-items: center;
+}
+.go{
+    color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 30px;
+margin-left: 50px;
+padding-top : 80px;
+}
+.pp{
+ width: 618px; */
+height: 77px;
+flex-shrink: 0;
+margin-left: 50px;
+}
+.image1{
+    color: white;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+background-image: url(images/Rectangle\ 1.jpg);
+width: 1349px;
+height: 551px;
+/* display: flex; */
+margin-top: -20px;
+}
+.btn2{
+    display: inline-flex;
+    padding: 14px 13px 15px 13px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    color: white;
+    background-color: firebrick;
+    margin-left: 50px;
+}
+.wel{
+    color: #000;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: center;
+justify-content: center;
+align-items: center;
+}
+.line{
+    /* height: px; */
+    /* width: 30px; */
+    background-color: firebrick;
+    width: 180px;
+height: 6px;
+border-radius: 8px;
+align-items: center;
+margin-left: 550px;
+}
+.img9{
+    margin-top: 40px;
+    padding: 20px;
+}
+.img2{
+    float: left;
+}
+.trn{
+    color: firebrick;
+}
+.uu{
+    margin-left: 50px;
+}
